@@ -36,4 +36,4 @@
 
 Входные и выходные *.yaml and *.pgm файлы вы можете посмотреть в репозитории.
 
-![example of work](https://lh6.googleusercontent.com/KdWVG993ONzZH0dwFLziKK8N-Y90bW77FsTx1G669A97yVOvuUutH8Ua-AVZ9ObLQcneBTSbuHYfc_o=w1375-h805)
+![example of work](https://lh5.googleusercontent.com/AGk378KpxWNa8ZmYWTYQZSOka-sUglxL33PVt5zNoD271_B03q8F9vnB13m-4ZsvYidiuIx2q3_fTBg=w1375-h805)
